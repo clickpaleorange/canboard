@@ -1,4 +1,8 @@
-<p> Step 1. What would you like to do? </p>
+<h1>
+   Schedule
+</h1>
+
+<p> What would you like to do? </p>
 
 <ul>
   <li><a href="?schedule">Schedule Matrix</a></li>
